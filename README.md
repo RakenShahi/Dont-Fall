@@ -3,6 +3,12 @@
 This game is built using Unity which can run both on PC and android.
 The main aim of the game is to prevent the player ball from falling from the platform and push down other enemy balls then collect the starts to get into next level.
 
+## Game Download Link (Android)
+https://github.com/RakenShahi/Dont-Fall/raw/main/Don't%20Fall.apk
+
+### Game Play Video
+https://www.youtube.com/watch?v=9ETm_7jY9Sc
+
 ## Some of the screenshots:
 
 ## Main Menu
